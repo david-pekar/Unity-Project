@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - spike
+  - faceblock
+  - Enemy
+  - Main Camera
+  - Barbarian
+  - Knight
+  - Runner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - User1
+  - User2
+  - User3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Jungle Background 1
+    uniqueID: 2923429151
+    locked: 0
+  - name: Jungle Background 2
+    uniqueID: 79165327
+    locked: 0
+  - name: Jungle Background 3
+    uniqueID: 3087614471
+    locked: 0
+  - name: Jungle Background 4
+    uniqueID: 2291131923
+    locked: 0
+  - name: Jungle Background 5
+    uniqueID: 2799981149
+    locked: 0
+  - name: CloudsBack
+    uniqueID: 471999563
+    locked: 0
+  - name: CloudsFront
+    uniqueID: 1454882507
+    locked: 0
+  - name: Mountains
+    uniqueID: 3822768481
+    locked: 0
+  - name: House
+    uniqueID: 3964631483
+    locked: 0
+  - name: Main Character
+    uniqueID: 4246636643
+    locked: 0
+  - name: Grass
+    uniqueID: 2543627701
+    locked: 0
