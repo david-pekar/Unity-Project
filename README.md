@@ -3,7 +3,6 @@
 
 ![Capture](https://user-images.githubusercontent.com/89409701/133026420-08e6db3e-434f-4fb4-92d9-2bcf57e3c2d3.JPG)
 
-![characters](https://user-images.githubusercontent.com/89409701/133026439-d016d4a9-d1d0-447e-bf74-f2b68be8b016.JPG)
 
 ![level1](https://user-images.githubusercontent.com/89409701/133026445-cdcc70eb-afaa-4f80-8266-279a62f688de.JPG)
 
